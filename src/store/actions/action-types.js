@@ -1,0 +1,1 @@
+export const GET_CONTACTS_LIST = 'GET_CONTACTS_LIST';
